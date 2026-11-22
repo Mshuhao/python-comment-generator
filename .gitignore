@@ -1,0 +1,17 @@
+# 环境变量与缓存
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 虚拟环境
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# 输出文件
+output_*.py
